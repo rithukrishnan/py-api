@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #
 # GX PYTHON API for NETCONF requests
+# Author: Rithu Anand Krishnan
 #    
 #
 from ncclient import operations
